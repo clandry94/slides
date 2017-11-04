@@ -1,4 +1,4 @@
-some carrot picture
+carrot
 an open-source framework for multiplayer networking in Augmented Reality
 
 Conor Landry
@@ -6,11 +6,13 @@ CIS4914 Senior Project
 November 7, 2017
 
 * Overview
+- Motivation: Augmented Reality is an emerging field with extraordinary potential in multiple industries. We are currently the early stages of adoption of AR by major device makers (Apple, Google, Samsung) and many problems remain unsolved.
+- Problem:  There are no reliable frameworks currently available that can provide the precision, speed, throughput, and scalability that Augmented Reality applications demand.
+- Solution: We are creating a fully featured, high throughput, low latency, application layer based framework such that developers can build real-time, multiplayer Augmented Reality applications on iOS devices
 
-this is the overview slide!
 
-* GANTT Chart
-.image ./imgs/gantt.png
+*   
+.background ./imgs/gantt.png
 
 * Literature Sources
 - Source 1
